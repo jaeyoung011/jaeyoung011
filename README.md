@@ -6,9 +6,10 @@
 
 * #### Learning Deep Learning & Machine Learning
   * pytorch, tensorflow, sklearn, etc
+  * 
 
 ## 🏆 AI Challenge
-
+[AI Competition Repository](https://https://github.com/jaeyoung011/ML_Competition)
 
 ## 💻 Algorithm Problem Solving
 
