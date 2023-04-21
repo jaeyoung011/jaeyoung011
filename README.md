@@ -2,7 +2,7 @@
 
 
 
-## I’m currently learning on NLP, RL
+## I’m currently learning on NLP
 
 * #### Learning Deep Learning & Machine Learning
   * pytorch, tensorflow, sklearn, etc
